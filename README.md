@@ -1,2 +1,2 @@
 # newdemo
-This is my first pepository 
+This is my first repository 
